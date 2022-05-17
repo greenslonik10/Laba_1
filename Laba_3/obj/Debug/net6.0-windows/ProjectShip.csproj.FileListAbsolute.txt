@@ -1,0 +1,17 @@
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\bin\Debug\net6.0-windows\ProjectShip.exe
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\bin\Debug\net6.0-windows\ProjectShip.deps.json
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\bin\Debug\net6.0-windows\ProjectShip.runtimeconfig.json
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\bin\Debug\net6.0-windows\ProjectShip.dll
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\bin\Debug\net6.0-windows\ProjectShip.pdb
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.csproj.AssemblyReference.cache
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.UI.FormMain.resources
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.csproj.GenerateResource.cache
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.AssemblyInfoInputs.cache
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.AssemblyInfo.cs
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.csproj.CoreCompileInputs.cache
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.dll
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\refint\ProjectShip.dll
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.pdb
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ProjectShip.genruntimeconfig.cache
+C:\Users\mailo\Documents\Projects\C#\ProjectDoctor\ProjectDoctor\obj\Debug\net6.0-windows\ref\ProjectShip.dll
