@@ -1,0 +1,22 @@
+{
+  "Temperature": 1000,
+  "Age": 11000000,
+  "Planets": [
+    {
+      "IsInhabited": false,
+      "HasAtmosphere": false,
+      "Moons": [],
+      "Name": "\u041C\u0430\u0440\u0441",
+      "Weight": 333444
+    },
+    {
+      "IsInhabited": false,
+      "HasAtmosphere": true,
+      "Moons": [],
+      "Name": "\u0417\u0435\u043C\u043B\u044F",
+      "Weight": 404
+    }
+  ],
+  "Name": "\u0421\u043E\u043B\u043D\u0446\u0435",
+  "Weight": 123321
+}
