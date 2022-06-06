@@ -1,0 +1,12 @@
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\bin\Debug\net6.0\NewShipModel.deps.json
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\bin\Debug\net6.0\NewShipModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\bin\Debug\net6.0\NewShipModel.pdb
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\refint\NewShipModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\NewShipModel.pdb
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\NewShip\obj\Debug\net6.0\ref\NewShipModel.dll

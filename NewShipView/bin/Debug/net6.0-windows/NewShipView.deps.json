@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NewShipView/1.0.0": {
+        "dependencies": {
+          "NewShipModel": "1.0.0"
+        },
+        "runtime": {
+          "NewShipView.dll": {}
+        }
+      },
+      "NewShipModel/1.0.0": {
+        "runtime": {
+          "NewShipModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewShipView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewShipModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
