@@ -1,0 +1,12 @@
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\bin\Debug\net5.0\MobilePhoneModel.deps.json
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\bin\Debug\net5.0\MobilePhoneModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\bin\Debug\net5.0\MobilePhoneModel.pdb
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\refint\MobilePhoneModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\MobilePhoneModel.pdb
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\MobilePhoneModel\obj\Debug\net5.0\ref\MobilePhoneModel.dll

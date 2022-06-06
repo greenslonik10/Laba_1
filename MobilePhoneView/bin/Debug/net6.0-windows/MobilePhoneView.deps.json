@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MobilePhoneView/1.0.0": {
+        "dependencies": {
+          "MobilePhoneModel": "1.0.0"
+        },
+        "runtime": {
+          "MobilePhoneView.dll": {}
+        }
+      },
+      "MobilePhoneModel/1.0.0": {
+        "runtime": {
+          "MobilePhoneModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobilePhoneView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobilePhoneModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
