@@ -1,0 +1,5 @@
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net5.0\ShipModel.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net5.0\ShipModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net5.0\ShipModel.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net5.0\ShipModel.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net5.0\ShipModel.csproj.CoreCompileInputs.cache

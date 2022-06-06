@@ -1,0 +1,12 @@
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\bin\Debug\net6.0\ShipModel.deps.json
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\bin\Debug\net6.0\ShipModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\bin\Debug\net6.0\ShipModel.pdb
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\refint\ShipModel.dll
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ShipModel.pdb
+C:\Users\Nikita\Desktop\CS_Labs\CS_Labs\ShipModel\obj\Debug\net6.0\ref\ShipModel.dll
